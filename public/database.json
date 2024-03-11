@@ -1,0 +1,16 @@
+[
+    {"player":"Lebron James", "club": "LA Lakers", "image": "lebron-james.avif"},
+    {"player":"Lonzo Ball", "club": "Chicago Bulls", "image": "lonzo-ball.webp"},
+    {"player":"Kyrie Irving", "club": "Dallas Mavericks", "image": "kyrie-irving.avif"},
+    {"player":"Stephen Curry", "club": "Golden State Warriors", "image": "steph-curry.avif"},
+    {"player":"Victor Wembanyama", "club": "San Antonio Spurs", "image": "victor-wemby.avif"},
+    {"player":"Luka Doncic", "club": "Dallas Mavericks", "image": "luka-doncic.avif"},
+    {"player":"Giannis Antetokounmpo", "club": "Milwaukee Bucks", "image": "giannis-ante.avif"},
+    {"player":"Damian Lillard", "club": "Milwaukee Bucks", "image": "damian-lillard.avif"},
+    {"player":"Anthony Davis", "club": "LA Lakers", "image": "anthony-davis.avif"},
+    {"player":"Austin Reaves", "club": "LA Lakers", "image": "austin-reaves.avif"},
+    {"club": "LA Lakers", "image": "lakers.svg"},
+    {"club": "Boston Celtics", "image": "celtics.svg"},
+    {"club": "Denver Nuggets", "image": "denver.svg"},
+    {"club": "Miami Heat", "image": "miami.svg"}
+]
